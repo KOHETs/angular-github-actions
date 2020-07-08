@@ -109,5 +109,8 @@
       }
     }
   },
-  "defaultProject": "angular-github-actions"
+  "defaultProject": "angular-github-actions",
+  "cli": {
+    "analytics": false
+  }
 }
